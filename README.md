@@ -24,13 +24,10 @@ Video: [Link](https://www.youtube.com/watch?v=Xo04dSepUVA)
 
 #### Dados:
 *   Duração total de produção de 2 meses.
-*   Tecnologia: Unity e C#
+*   Tecnologia: Unity, C# e Vuforia
 
 #### Minha Contribuição:
-*   Gerenciamento da equipe de programação;
-*   Otimização para linux escolar;
-*   Produzido mais da metade das mecanicas no produto;
-
+*   Otimização e resolução de bugs para IOS;
 
 
 
