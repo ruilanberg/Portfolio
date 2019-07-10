@@ -17,6 +17,23 @@ Video: [Link](https://www.youtube.com/watch?v=If9X6rucgv0)
 *   Otimização para linux escolar;
 *   Produzido mais da metade das mecanicas no produto;
 
+
+### Matemática
+![Image](Img/Screenshot-Matematica.png)  
+Video: [Link](https://www.youtube.com/watch?v=Xo04dSepUVA)
+
+#### Dados:
+*   Duração total de produção de 2 meses.
+*   Tecnologia: Unity e C#
+
+#### Minha Contribuição:
+*   Gerenciamento da equipe de programação;
+*   Otimização para linux escolar;
+*   Produzido mais da metade das mecanicas no produto;
+
+
+
+
 ## Trabalho pessoal
 
 
