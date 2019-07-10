@@ -1,9 +1,6 @@
 # Ruilan Berg
 ## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/ruilanberg/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Olá, meu nome é Ruilan BErg e eu sou um _gameplay programmer_. Meus principais interesses são jogabilidade e programação gráfica. Adoro criar a sensação de um jogo, como fazer um salto suave ou melhorar a velocidade de movimento.
 
 ### Markdown
 
