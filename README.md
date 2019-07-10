@@ -5,7 +5,7 @@ Olá, meu nome é Ruilan Berg e eu sou um _gameplay programmer_. Meus principais
 ## Projetos Profissionais
 
 ### Alfa Parque
-![Image](https://github.com/ruilanberg/Portfolio/blob/master/Img/Screenshot-Alfa_Parque.png)  Video: [Link](https://www.youtube.com/watch?v=If9X6rucgv0)
+![Image](https://imgur.com/PoQ7R01)  Video: [Link](https://www.youtube.com/watch?v=If9X6rucgv0)
 
 ## Trabalho pessoal
 
