@@ -4,6 +4,22 @@ Olá, meu nome é Ruilan Berg e eu sou um _gameplay programmer_. Meus principais
 
 ## Projetos Profissionais
 
+
+### Goldee's Quest
+![Image](Img/Screenshot-Goldee.png)  
+Video: [Link](https://www.youtube.com/watch?v=948ouaNEe90)
+
+#### Dados:
+*   Duração total de produção de 6 meses.
+*   Tecnologia: Unity, C#, Android Studio e Java.
+
+#### Minha Contribuição:
+*   Polimento do projeto que passou já por diversas equipes ao longo da produção;
+*   Resolver conflito de manifest de plugins no projeto;
+*   Update do projeto da versão 5.6 da unity para a versão 2018;
+
+
+
 ### Alfa Parque
 ![Image](Img/Screenshot-Alfa_Parque.png)  
 Video: [Link](https://www.youtube.com/watch?v=If9X6rucgv0)
