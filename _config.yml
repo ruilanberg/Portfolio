@@ -1,5 +1,5 @@
-theme: jekyll-theme-minimal
-title: [Ruilan Berg]
-description: [Gameplay Programmer]
+title: Ruilan Berg
+description: Gameplay Programmer
+logo: https://pages-themes.github.io/minimal/assets/img/logo.png
 
-logo: [https://pages-themes.github.io/minimal/assets/img/logo.png]
+theme: jekyll-theme-minimal
