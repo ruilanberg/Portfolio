@@ -9,6 +9,6 @@ Olá, meu nome é Ruilan Berg e eu sou um _gameplay programmer_. Meus principais
 
 ## Trabalho pessoal
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](https://github.com/ruilanberg/Portfolio/blob/master/Img/Screenshot-Alfa_Parque.png)
 
 ## Contato
