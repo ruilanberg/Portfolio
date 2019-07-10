@@ -1,10 +1,13 @@
 # Ruilan Berg
-## Welcome to GitHub Pages
+## Sobre Mim
 Olá, meu nome é Ruilan Berg e eu sou um _gameplay programmer_. Meus principais interesses são jogabilidade e programação gráfica. Adoro criar a sensação de um jogo, como fazer um salto suave ou melhorar a velocidade de movimento.
 
-### Markdown
+### Projetos Profissionais
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+
+### Trabalho pessoal
+
 
 ```markdown
 Syntax highlighted code block
